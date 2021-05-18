@@ -1,2 +1,2 @@
 # CursoGit
- Primeiro Contato com Git
+ Primeiro Contato com Git.
